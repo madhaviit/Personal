@@ -1,0 +1,43 @@
+body{
+    background-color: #FBF8F1;
+}
+#mad {
+    background-color: #FBF8F1;
+}
+hr{
+    margin-left: 30%;
+    margin-right: 30%;
+    border-color:teal;
+}
+.pic{
+    border-style:dashed;
+    border-color: #E9DAC1;
+    border-width: 2px;
+}
+.article{
+    font-size: 30px;
+    text-align: justify;
+}
+.table{
+    margin: auto;
+}
+h1{
+   color: darkslategray;
+}
+h3{
+    color:#310505;
+}
+#qaz{
+    border-radius: 110%;
+}
+a:hover{
+    color: black;
+    zoom: 140%;
+}
+.pic:hover{
+    zoom: 200%;
+}
+#resp{
+    width: 200;
+        height: 100; 
+}
